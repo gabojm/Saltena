@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513962567659",
+    "project_id": "saltena-477c4",
+    "storage_bucket": "saltena-477c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513962567659:android:94b3b3a84b43b204669bae",
+        "android_client_info": {
+          "package_name": "com.example.saltena2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513962567659-v7ojpmbi9u0rgeug7tqu3cv8952pokc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbWoWsIpmhjDhbq_wp7LCMrTngyCa3qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513962567659-v7ojpmbi9u0rgeug7tqu3cv8952pokc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
